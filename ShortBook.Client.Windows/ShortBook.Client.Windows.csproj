@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{54D06F14-BAD5-4805-9637-B2E97DB3F68A}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>shortbook_client_windows</RootNamespace>
-    <AssemblyName>shortbook-client-windows</AssemblyName>
+    <RootNamespace>ShortBook.Client.Windows</RootNamespace>
+    <AssemblyName>ShortBook.Client.Windows</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
