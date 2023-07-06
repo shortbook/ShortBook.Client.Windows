@@ -1,8 +1,7 @@
-﻿<Application x:Class="shortbook_client_windows.App"
+﻿<Application x:Class="ShortBook.Client.Windows.App"
              xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
-             xmlns:local="clr-namespace:shortbook_client_windows"
-             StartupUri="MainWindow.xaml">
+             Startup="ApplicationStart">
     <Application.Resources>
         <ResourceDictionary>
             <ResourceDictionary.MergedDictionaries>
